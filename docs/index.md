@@ -5,6 +5,8 @@ permalink: /a/
 toc: false
 ---
 
+:-/?
+
 ## Table of Contents
 
 {{ content }}
