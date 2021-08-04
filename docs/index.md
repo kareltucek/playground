@@ -1,12 +1,14 @@
 ```yaml
 ---
+layout: default
+title: index
 toc: true
 toc_label: "Unique Title"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 ```
 
-12345
+123456
 
 ## Table of Contents
 
