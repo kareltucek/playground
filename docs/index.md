@@ -1,3 +1,10 @@
+---
+layout: page
+title: "A"
+permalink: /a/
+toc: false
+---
+
 ## Table of Contents
 
 {{ content }}
