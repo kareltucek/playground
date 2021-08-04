@@ -1,3 +1,11 @@
+---
+toc: true
+toc_label: "Unique Title"
+toc_icon: "heart"
+---
+
+123
+
 ## Table of Contents
 
 {{ content }}
