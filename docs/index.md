@@ -1,12 +1,3 @@
----
-layout: page
-title: "Ind"
-permalink: /index/
-toc: false
----
-
-123
-
 ## Table of Contents
 
 {{ content }}
