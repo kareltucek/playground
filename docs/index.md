@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "A"
-permalink: /a/
+title: "Ind"
+permalink: /index/
 toc: false
 ---
 
